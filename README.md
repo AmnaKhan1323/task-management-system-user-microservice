@@ -10,5 +10,4 @@
 
 # Delete request 
 
-![http___localhost_3000_getUser_john_doe - My Workspace 21-12-2023 00_41_05](https://github.com/AmnaKhan1323/task-management-system-user-microservice/assets/92085936/bbd27e82-81d5-4698-b390-3b685d890fc5)
-
+![Editing task-management-system-user-microservice_README md at main · AmnaKhan1323_task-management-system-user-microservice - Google Chrome 21-12-2023 00_50_21](https://github.com/AmnaKhan1323/task-management-system-user-microservice/assets/92085936/353efa9d-50ae-402e-ba59-a276ff5b95eb)
